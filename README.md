@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 9, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daniel Potts
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We were advised to create a functioning tax bracket calculator, which would give an estimate in regards to the tax bracket that a given income would generate.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dpotts1.github.io/-lesson5_javascript2-/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to complete a Clear Button's code
+2. I learned that given a specific income, a tax bracket can be estimated for tax purposes
+3. I learned that even if there are sometimes issues in the early stages of an assignment, stay the course and keep trying different solutions.
 
